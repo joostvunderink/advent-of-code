@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "dependencies": {
+        "expect": "^29.7.0",
+        "moment": "^2.29.4"
+    }
+}
